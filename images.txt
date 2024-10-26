@@ -1,5 +1,6 @@
-nginx
-mysql:8.0.37
-redis:6.2.14
-amuguelove/weixin-md:1.0.0
-halohub/halo:2.19
+mongo:5.0
+redis:6.2
+wurstmeister/kafka:2.13-2.8.0
+elasticsearch:7.10.1
+mysql:8.0
+wurstmeister/zookeeper:3.4.14
