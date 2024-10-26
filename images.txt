@@ -1,4 +1,5 @@
 nginx
+mongo
 mysql:8.0.37
 redis:6.2.14
 amuguelove/weixin-md:1.0.0
