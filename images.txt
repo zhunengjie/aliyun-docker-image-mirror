@@ -1,6 +1,10 @@
-mongo:5.0
-redis:6.2
-wurstmeister/kafka:2.13-2.8.0
+ubuntu:20.04
+ubuntu:22.04
+python:3.10
+python:3.8.10-alpine3.12
+cleardevice/ssdb
+bitnami/kafka:3.7.1
 elasticsearch:7.10.1
-mysql:8.0
-wurstmeister/zookeeper:3.4.14
+mysql:8.0.40-debian
+zookeeper:3.4.14
+centos:centos7
