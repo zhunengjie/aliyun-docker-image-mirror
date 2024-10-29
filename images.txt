@@ -1,2 +1,1 @@
-jitesoft/go:1.23.2-debian
-jitesoft/go:1.23-ubuntu
+sheepkiller/kafka-manager:stable
