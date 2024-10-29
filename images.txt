@@ -1,1 +1,2 @@
-sheepkiller/kafka-manager:stable
+wurstmeister/zookeeper:latest
+wurstmeister/kafka:latest
