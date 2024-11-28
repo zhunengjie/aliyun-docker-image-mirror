@@ -1,2 +1,1 @@
-wurstmeister/zookeeper:latest
-wurstmeister/kafka:latest
+cloudforet/supervisor:2.0.dev21
