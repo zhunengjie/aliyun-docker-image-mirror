@@ -1,1 +1,1 @@
-linkease/ddnsto
+tailscale/tailscale:stable
