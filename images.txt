@@ -1,1 +1,1 @@
-cloudforet/supervisor:2.0.dev21
+linkease/ddnsto
