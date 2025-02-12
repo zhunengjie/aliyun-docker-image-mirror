@@ -1,1 +1,1 @@
-golang:alpine
+ghcr.io/open-webui/open-webui
