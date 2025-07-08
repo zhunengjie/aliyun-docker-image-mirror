@@ -1,1 +1,1 @@
-hugomods/hugo:debian-nightly
+dreamacro/clash
