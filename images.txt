@@ -1,1 +1,1 @@
-klakegg/hugo:ext-alpine
+hugomods/hugo:debian-nightly
